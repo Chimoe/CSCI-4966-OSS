@@ -1,19 +1,18 @@
-# Lab6
+# Lab7
 
-## Step 1
 
-![alttext](first1.png)
-
-------------------
-
-![alttext](first2.png)
-
-## Step 2
-
-![alttext](second.png)
+![alttext](finish.png)
 
 ------------------
 
-## Step 3
+![alttext](finish2.png)
 
-![alttext](third.png)
+------------------
+
+![alttext](library.png)
+
+
+-------------------
+
+
+![alttext](dia_plot.png)
