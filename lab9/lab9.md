@@ -1,5 +1,8 @@
 # Lab 9 
 
+I almost screwed this up by doing a "git revert".  
+Luckily I can still "git cherry-pick".
+
 ### Example 00  
 
 Boo
